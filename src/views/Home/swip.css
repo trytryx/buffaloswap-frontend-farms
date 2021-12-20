@@ -1,0 +1,19 @@
+.swiper-pagination > .swiper-pagination-bullet {
+    opacity: 1;
+    border: white solid 1px;
+    background-color: transparent;
+    position: relative;
+    bottom: -4px;
+}
+
+.swiper-pagination > .swiper-pagination-bullet-active {
+    background-color: white;
+}
+
+.swiper-button-next,
+.swiper-button-prev, 
+.swiper-container-rtl .swiper-button-prev,
+.swiper-container-rtl .swiper-button-next{
+    
+    color: white;
+}
