@@ -7,11 +7,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Buff',
-        href: 'https://www.buffaloswap.org',     
+        href: 'https://www.buffaloswap.network',     
       },
       {
-        label: 'RedBuff',
-        href: 'https://red.buffaloswap.org',     
+        label: 'Buffs',
+        href: 'https://buffaloswap.network',     
       },
     ] 
   },
@@ -21,11 +21,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Swap',
-        href: 'https://dex.buffaloswap.org/#/swap',     
+        href: 'https://buffaloswap.network',     
       },
       {
         label: 'Liquidity',
-        href: 'https://dex.buffaloswap.org/#/pool',     
+        href: 'https://buffaloswap.network',     
       },
     ] 
   },
@@ -35,11 +35,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Buff',
-        href: '/farms',
+        href: '/#',
       } ,
       {
-        label: 'RedBuff',
-        href: 'https://red.buffaloswap.org/farms'
+        label: 'Buffs',
+        href: '/#'
       },
     ]
     
