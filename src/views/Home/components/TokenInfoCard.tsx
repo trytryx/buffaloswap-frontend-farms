@@ -20,9 +20,9 @@ const onAddMetamask = (callback:any) => {
                 params: {
                   "type":"ERC20",
                   "options":{
-                    "address": "0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
+                    "address": "0x48bf0Dde64cE7AF1E9031cC68D078CDfD960928C",
                     "symbol": "BUFF",
-                    "decimals": 18,
+                    "decimals": 9,
                     "image": "https://www.buffaloswap.org/images/logo_600.png",
                   },
                 },
@@ -42,8 +42,8 @@ const onAddMetamaskRed = (callback:any) => {
           params: {
             "type":"ERC20",
             "options":{
-              "address": "0x9eC132c19f2c35272DE3f81a75D674752D952DA8",
-              "symbol": "REDBUFF",
+              "address": "0x000000000000000000000000000000000000dead",
+              "symbol": "BUFFS",
               "decimals": 18,
               "image": "https://www.buffaloswap.org/images/redbuff/red_circle_512.png",
             },
@@ -72,15 +72,15 @@ const TokenInfoCard = () => {
 
           <Text color="white">BUFF <img src="https://www.buffaloswap.org/images/logo_buffaloswap_32.png" alt="" width="22px" style={{position: 'relative', top: '5px'}}/> </Text>
           <Text color="primary" fontSize="14px">
-            <a href="https://bscscan.com/address/0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5" target="_blank" rel="noreferrer">
+            <a href="https://bscscan.com/address/0x48bf0Dde64cE7AF1E9031cC68D078CDfD960928C" target="_blank" rel="noreferrer">
             0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5
             </a>
           </Text>
           <Text color="primary">&nbsp;</Text>
           
-          <Text color="white">REDBUFF <img src="https://www.buffaloswap.org/images/redbuff/red_circle_48.png" alt="" width="18px" style={{position: 'relative', top: '3px'}}/> </Text>
+          <Text color="white">BUFFS <img src="https://www.buffaloswap.org/images/redbuff/red_circle_48.png" alt="" width="18px" style={{position: 'relative', top: '3px'}}/> </Text>
           <Text color="primary" fontSize="14px">
-            <a href="https://bscscan.com/address/0x9eC132c19f2c35272DE3f81a75D674752D952DA8" target="_blank" rel="noreferrer">
+            <a href="https://bscscan.com/address/0x000000000000000000000000000000000000dead" target="_blank" rel="noreferrer">
             0x9eC132c19f2c35272DE3f81a75D674752D952DA8
             </a>
           </Text>
@@ -90,7 +90,7 @@ const TokenInfoCard = () => {
           <Button variant="secondary" onClick={onAddMetamask}> $BUFF to&nbsp;
             <MetamaskIcon />
           </Button>
-          <Button variant="secondary" onClick={onAddMetamaskRed}> $REDBUFF to&nbsp;
+          <Button variant="secondary" onClick={onAddMetamaskRed}> $BUFFS to&nbsp;
             <MetamaskIcon />
           </Button>
           </Flex>
