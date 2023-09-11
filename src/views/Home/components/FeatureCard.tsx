@@ -34,7 +34,6 @@ const FeatureCard = () => {
           <Text color="white">&#9989; Anti whale system</Text>
           <Text color="white">&#9989; Migrator Code Removed</Text>
           <Text color="white">&#9989; 5% Referral Program</Text>        
-          <Text color="white">&#9989; LP Locked on <a href='https://app.unicrypt.network/amm/pancake-v2/pair/0xfdCF6F480838e7b12f091dACa213Ef571782b79C' rel='noreferrer' target='_blank'><span style={{ color: 'rgb(246, 149, 34)' }}>Unicrypt.network</span></a></Text>
           <Text color="white">&nbsp;</Text>
           <Text color="secondary">&#128640; Don&#39;t forget to grab your referral link from the site and invite your friends to earn 5% of their rewards (they won&#39;t lose this 5%, it is newly mined from the system, so you win with them together) </Text>
         </>
