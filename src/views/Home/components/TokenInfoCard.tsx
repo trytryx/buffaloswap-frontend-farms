@@ -73,7 +73,7 @@ const TokenInfoCard = () => {
           <Text color="white">BUFF <img src="https://www.buffaloswap.org/images/logo_buffaloswap_32.png" alt="" width="22px" style={{position: 'relative', top: '5px'}}/> </Text>
           <Text color="primary" fontSize="14px">
             <a href="https://bscscan.com/address/0x48bf0Dde64cE7AF1E9031cC68D078CDfD960928C" target="_blank" rel="noreferrer">
-            0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5
+            0x48bf0Dde64cE7AF1E9031cC68D078CDfD960928C
             </a>
           </Text>
           <Text color="primary">&nbsp;</Text>
@@ -81,7 +81,7 @@ const TokenInfoCard = () => {
           <Text color="white">BUFFS <img src="https://www.buffaloswap.org/images/redbuff/red_circle_48.png" alt="" width="18px" style={{position: 'relative', top: '3px'}}/> </Text>
           <Text color="primary" fontSize="14px">
             <a href="https://bscscan.com/address/0x000000000000000000000000000000000000dead" target="_blank" rel="noreferrer">
-            0x9eC132c19f2c35272DE3f81a75D674752D952DA8
+            0x48bf0Dde64cE7AF1E9031cC68D078CDfD960928C
             </a>
           </Text>
           <Text color="primary">&nbsp;</Text>
