@@ -81,7 +81,7 @@ const Home: React.FC = () => {
       navigation
       >
       <SwiperSlide><img src="/images/banners/muft_2400x400.jpg" alt="buff"/></SwiperSlide>  
-      <SwiperSlide><a href="https://buffaloswap.org/games" rel="noreferrer"><img src="/images/banners/treasure_2400x400.jpg" alt="buff"/></a></SwiperSlide>
+      <SwiperSlide><a href="https://pisino.io" rel="noreferrer"><img src="/images/banners/treasure_2400x400.jpg" alt="buff"/></a></SwiperSlide>
       <SwiperSlide><img src="/images/banners/bbq_2400x400.jpg" alt="buff"/></SwiperSlide>
       
     </Swiper>
