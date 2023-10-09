@@ -28,6 +28,7 @@ const config: MenuEntry[] = [
         href: 'https://buffaloswap.network',     
       },
     ] 
+    },
     {
     label: 'NFTDAPP',
     icon: 'NftIcon',
