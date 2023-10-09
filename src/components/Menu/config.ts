@@ -23,6 +23,7 @@ const config: MenuEntry[] = [
         label: 'Swap',
         href: 'https://buffaloswap.network',     
       },
+      {
         label: 'Liquidity',
         href: 'https://buffaloswap.network',     
       },
